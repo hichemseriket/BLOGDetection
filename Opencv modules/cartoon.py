@@ -3,7 +3,7 @@ import cv2
 num_down = 2
 num_bilateral = 7 
 
-img = cv2.imread("/home/akira/Desktop/blog/google2.0.0.jpg")
+img = cv2.imread("hichem.png")
 
 img_copy = img
 

@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread("/home/akira/Desktop/blog/ssr_org.jpg")
+img = cv2.imread("hichem.png")
 
 scale = 0.60
 
